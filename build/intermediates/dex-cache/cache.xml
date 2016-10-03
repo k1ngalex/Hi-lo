@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cd5746741110d625ee2d7fcbcc9028f91f3baaaa">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6be4df25bc5e0d339700be9d05fdf1c51d005304/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5676b0e5b6e8fb6fa941ed138c8d88d028d0f94b">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d320b6d1c0af558f1da59be8da599a3d10f7490f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd47bd3da9e8aebc622fa4bcc0697154892d7e57">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_853d73e67dafbde9216d1102b6da41a673e8d883/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4722c94595ca5e2a708b6761ed3ca0e6e8be7862">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9ae8ea0ada9bca137d6f9904de15d50a6adc56b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e15266b9b399a77a35bc7d21276ac36e6e7c861f">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_27b7fbfecde07a5514ec5a6511dc0be257926125/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="87df1bae35b680ec2c862f429e2a43772c964edd">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_feed65a635e367605d66aa7e182159118de3f168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eecf2b5f10f43196d10d1d6dfa6972d5ded6aaeb">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_790ed2cb3bd8815c0eff86ed6f58db246906fc50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8893c740adb6a8398957dc8707b9f2cd7a4dcbd1">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e41e52dc725dc8c831e0a4bdc989a5c1651a9254/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ecb0d4383ff9ab5f66108fbe8c8d3f0fefc475">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6b7f39d108e08199b801135ea78088d92156f462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df7ff32a592f169e89a7787fb434e0c623eaefa9">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_7efe7a143bf1618f7cf99295500224e0103f0939/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e9af8f2d557bfbd52c656f1242b66be61715384">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ad2a288597e4ef8fd9b3d1affcd8f2cb3ae529f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="107aec71105cbe57bf9388a8b194a4d2d5b1894f">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_3b67f022a2ba63c086647ed61f81234fc7ca0718/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ece53583864cf937c488066e78361992af2732a">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_90adbaf73e5d87a82737f61d1751c8cab4b612c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="68e64d942287b041b1e7d7d0348803904cae2334">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a68de9949ca55cca1e429b32c3fd8802286a3b21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_70cec528a51dee345232983afa9a47326855b846/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cb073666daff103d859e8d6e6b33d44ce0443abb">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_1e71394312d6f20ec2565a10b4ef330f2294ce85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf3771347d338097b9427fb53e39d0a300190a7b">
+        <dex dex="/Users/AlexKing/Downloads/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_2923e7f1fd24b49a6d51d1dcf8e341bb0a2ca7e2/classes.dex" />
+    </item>
+
+</items>

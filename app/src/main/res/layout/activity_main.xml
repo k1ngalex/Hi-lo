@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.algonquincollege.king0410.guessanumber.MainActivity"
+    android:background="#ffa500">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:inputType="number"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:id="@+id/userGuess"
+        android:background="#ffffff"
+        android:hint="Enter your number here"
+        android:textIsSelectable="false"
+        android:textColor="#000"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Your Guess"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#000"
+        android:layout_marginBottom="36dp"
+        android:layout_above="@+id/userGuess"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:text="Wins"
+        android:textColor="#000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView13"
+        android:layout_marginTop="12dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Guess"
+        android:layout_width="wrap_content"
+        android:width="36dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/Button"
+        android:layout_marginTop="14dp"
+        android:height="24dp"
+        android:layout_below="@+id/userGuess"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Guesses"
+        android:textColor="#000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:id="@+id/textView17"
+        android:layout_below="@+id/textView12"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:textColor="#000"
+        android:textSize="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/wins"
+        android:freezesText="true"
+        android:layout_alignBaseline="@+id/textView13"
+        android:layout_alignBottom="@+id/textView13"
+        android:layout_alignEnd="@+id/Button" />
+
+    <TextView
+        android:text="Losses"
+        android:textColor="#000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView12"
+        android:layout_marginTop="18dp"
+        android:layout_below="@+id/wins"
+        android:layout_alignEnd="@+id/textView17" />
+
+    <Button
+        android:text="Play Again?"
+        android:layout_width="wrap_content"
+        android:width="45dp"
+        android:maxHeight="60dp"
+        android:minHeight="60dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/newGame"
+        android:height="24dp"
+        android:elegantTextHeight="false"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/Button" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textSize="25dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:background="#ffa500"
+        android:focusableInTouchMode="false"
+        android:text="0"
+        android:id="@+id/guesses"
+        android:layout_alignBaseline="@+id/textView17"
+        android:layout_alignBottom="@+id/textView17"
+        android:layout_alignStart="@+id/losses" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textSize="25dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:background="#ffa500"
+        android:focusableInTouchMode="false"
+        android:text="0"
+        android:id="@+id/losses"
+        android:layout_alignBaseline="@+id/textView12"
+        android:layout_alignBottom="@+id/textView12"
+        android:layout_alignStart="@+id/wins" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textSize="25dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:background="#ffa500"
+        android:focusableInTouchMode="false"
+        android:text="0"
+        android:id="@+id/win"
+        android:layout_alignBaseline="@+id/wins"
+        android:layout_alignBottom="@+id/wins"
+        android:layout_alignStart="@+id/wins" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/ic_launcher"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
